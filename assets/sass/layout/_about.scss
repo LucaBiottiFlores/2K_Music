@@ -1,0 +1,23 @@
+.aboutImg {
+    border-radius: 50%;
+    max-width: 200px;
+}
+
+.aboutTitle {
+    text-align: center;
+    color: $black;
+    margin-top: 1em;
+}
+
+.aboutContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 2em;
+}
+
+.aboutText {
+    margin: 2em;
+    text-align: center;
+}
+
